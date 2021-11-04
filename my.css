@@ -1,0 +1,116 @@
+
+.my-text-neutral-5{
+    color: #2140a6;
+}
+.my-text-neutral-4{
+    color: #000926;
+}
+.my-text-neutral-3{
+    color: #6f717b;
+}
+.my-text-neutral-2{
+    color: #c2cdf2;
+}
+.my-text-neutral-1{
+    color: #ffffff;
+}
+
+.my-text-secondary-5{
+    color: #001b73;
+}
+
+.my-text-success{
+    color: #3dcc6d;
+}
+.my-text-caution{
+    color: #ff4d4d;
+}
+.my-text-disabled{
+    color: #999da8;
+}
+
+.my-text-accent-3{
+    color: #ac8dff;
+}
+.my-text-accent-2{
+    color: #ff6699;
+}
+.my-text-accent-1{
+    color: #5cdfe6;
+}
+
+
+.my-bg-primary{
+    background-color: #2140a6;
+}
+
+.my-bg-secondary-01{
+    background-color: #f2f5ff;
+}
+.my-bg-secondary-02{
+    background-color: #c2cdf2;
+}
+.my-bg-secondary-03{
+    background-color: #8296d9;
+}
+.my-bg-secondary-04{
+    background-color: #4d67bf;
+}
+.my-bg-secondary-05{
+    background-color: #001b73;
+}
+
+.my-bg-neutrals-01{
+    background-color: #ffffff;
+}
+.my-bg-neutrals-02{
+    background-color: #f5f5f7;
+}
+.my-bg-neutrals-03{
+    background-color: #6f717b;
+}
+.my-bg-neutrals-04{
+    background-color: #000926;
+}
+
+.my-bg-accents-01{
+    background-color: #5cdfe6;
+}
+.my-bg-accents-02{
+    background-color: #ff6699;
+}
+.my-bg-accents-03{
+    background-color: #ac8dff;
+}
+.my-bg-accents-04{
+    background-color: #ffca66;
+}
+
+.my-bg-semantic-success{
+    background-color: #3dcc6d;
+}
+.my-bg-semantic-caution{
+    background-color: #ff4d4d;
+}
+.my-bg-semantic-disabled{
+    background-color: #999da8;
+}
+
+.my-bg-separators-01{
+    background-color: #e0e6f8;
+}
+.my-bg-separators-02{
+    background-color: #c2cdf2;
+}
+.my-bg-separators-03{
+    background-color: #ebecee;
+}
+
+.my-bg-gradient{
+    background-image: linear-gradient(175deg, #2140a6, #001b73)!important;
+    
+}
+.my-bg-gradient-top{
+    background-image: linear-gradient(to bottom, #2140a6, #001b73)!important;
+}
+
